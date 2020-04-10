@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "299091212616",
+    "firebase_url": "https://e2lpython.firebaseio.com",
+    "project_id": "e2lpython",
+    "storage_bucket": "e2lpython.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299091212616:android:c71f227b895d90e477db7d",
+        "android_client_info": {
+          "package_name": "com.e2lpython"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299091212616-t8en76efvnl2kohjkmt0dded13lt2efh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e2lpython",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "299091212616-orhu19ck9ob8kp1jvmoujkvr1fcal6fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e2lpython",
+            "certificate_hash": "8cada384d3395a95652a89985fca6e7e7b71b7b8"
+          }
+        },
+        {
+          "client_id": "299091212616-t4opr5tgnn51nh74kfdvjkusifjsku1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuh1WjLp-sQfMAgEEj-_y13kPgxIMGDBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299091212616-t4opr5tgnn51nh74kfdvjkusifjsku1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
