@@ -3,7 +3,7 @@
 # Clone 
 git clone https://github.com/Ayush1011/Ritzzy-Radio
 
-![heltoduct](https://media-exp1.licdn.com/dms/image/C512DAQGW_l7e5Xa_xg/profile-treasury-image-shrink_1920_1920/0/1601348422830?e=1607868000&v=beta&t=WhD3ijGMJPOCVMDxwiPxXb5fRGSD1ZjFeh3t07mdsv0)
+![Ritzzy](https://firebasestorage.googleapis.com/v0/b/virtusa-58806.appspot.com/o/ritzzy.jpeg?alt=media&token=4e1969d7-1b50-492d-97e7-be02ca44e823)
 
 # Application content
 i) Android Application utilizing Node JS, React Native, Mysql, and so forth using express Framework.  
